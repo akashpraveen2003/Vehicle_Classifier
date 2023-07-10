@@ -1,0 +1,2 @@
+module vehicle_classifier {
+}
